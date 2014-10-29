@@ -7,6 +7,7 @@
 /**
  *
  * @author Rebecca vanLangelaan
+ * @date 29.10.2014
  */
 public class Taschenrechner extends javax.swing.JFrame {
 
